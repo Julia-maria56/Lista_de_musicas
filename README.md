@@ -1,6 +1,6 @@
 # 🎵 Lista de musicas
 
-##Este projeto tem a finalidade de apresentar cards com imagem, nome, album e artista de músicas;
+## Este projeto tem a finalidade de apresentar cards com imagem, nome, album e artista de músicas;
 
 ## 🛠️ Tecnologias Utilizadas
 
