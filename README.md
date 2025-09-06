@@ -16,7 +16,7 @@
 - Botão para **adicionar música à playlist**
 
 
-## 🔥 Especificidade
+## 🔥 Especificidades
 - Este projeto foi pensado utilizando os perfis de cada música com objeto no Javascript
 - Não faz uso de api, nem de api fake
 - As músicas presentes no site são de gosto pessoal da autora do projeto
